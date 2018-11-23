@@ -45,3 +45,7 @@ subclass: 'post page'
 ---
 ```
 * Fillup new tag's information in \_data/authors.yml file. Use template-author for the same
+
+## Adding new team member
+* Add your information in `_data/members.yml` file
+* Upload you image to folder `assets/images/members/`
