@@ -53,6 +53,7 @@ subclass: 'post page'
 
   .member-container{
     justify-content: space-evenly;
+    width: 100%;
     display: inline-flex;
     flex-direction: row;
     flex-wrap: wrap;
